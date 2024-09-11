@@ -9,11 +9,14 @@
 Некоторые статьи этого сборника будут продублированы на хабр.
 
 Статьи для начинающих:
-* [Как работает компилятор]()
-
-Статьи:
-
-Книги:
+* [Как работает компилятор](https://github.com/ArtyomKingmang/Compiler-Dev/tree/main/beginners_article/compiler)
 
 Задания и решения:
-* [simple query interpreter]()
+* [simple query interpreter](https://github.com/ArtyomKingmang/Compiler-Dev/tree/main/tasks/query_interpreter)
+
+Статьи:
+> в процессе
+
+Книги:
+> в процессе
+
