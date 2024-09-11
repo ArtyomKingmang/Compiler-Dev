@@ -1,2 +1,19 @@
-# Compiler-Dev
-Collection of articles, books and exercises on compiler development (Ru and En)
+<div align="center">
+  <img src="icon.png" width="300">
+</div>
+
+<h1 style="text-align:center;">Compiler Book</h1>
+
+
+Огромный сборник информации, книг, а также авторских заданий по теме компиляторов и интерпретаторов.
+Некоторые статьи этого сборника будут продублированы на хабр.
+
+Статьи для начинающих:
+* [Как работает компилятор]()
+
+Статьи:
+
+Книги:
+
+Задания и решения:
+* [simple query interpreter]()
